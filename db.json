@@ -1,8 +1,14 @@
 {
   "products": [
-    { "id": 1, "titulo": "Entendendo o ES6", "url": "https://www.codeprestige.com.br/cursos/es6" },
-    { "id": 2, "titulo": "Produtividade Máxima com o VS Code", "url": "https://www.udemy.com/truques-vscode/" },
-    { "id": 3, "titulo": "Entendendo o ES7/ES8", "url": "https://www.codeprestige.com.br/cursos/es7-8" },
-    { "id": 4, "titulo": "React 16 Definitivo", "url": "https://www.udemy.com/react-16/" }
+    { "id": 1, "product": "Refrigerador Consul", "model": "Geladeria/Refrigerador Consul Duplex CRE44 Frost Free com Freezer Embaixo", "url": "https://images-americanas.b2w.io/produtos/01/00/img/36911/1/36911183_1GG.jpg" },
+    { "id": 2, "product": "Refrigerador Brastemp", "model": "Geladeira Brastemp Frost Free Evox - Inverse 573L Ative! Maxi", "url": "https://a-static.mlcdn.com.br/618x463/geladeira-brastemp-frost-free-evox-inverse-573l-ative-maxi-bre80-akana/magazineluiza/013021200/8a0c5e4e94cb7df3199cef088e33a8c0.jpg" },
+    { "id": 3, "product": "Refrigerador Eletrolux", "model": "Refrigerador Eletrolux TF51", "url": "https://comercialbelli.com.br/wp-content/uploads/2016/09/ELECTROLUX-REFRIGERADOR-TF-51.jpg" },
+    { "id": 4, "product": "Tv Sony 50'", "model": "Smart TV LED 50' Sony Full HD HDR KDL-50W665F 2 HDMI", "url": "https://i.zst.com.br/thumbs/12/15/10/571165638.jpg" },
+    { "id": 5, "product": "Tv LG 55'", "model": "Smart TV LED 55´ 4K LG, 4 HDMI, 2 USB, Bluetooth, Wi-Fi, Active HDR, ThinQ AI", "url": "https://images8.kabum.com.br/produtos/fotos/102898/smart-tv-led-55-4k-lg-4-hdmi-2-usb-bluetooth-wi-fi-active-hdr-thinq-ai-55um761c0sb-bwz-_1576263289_g.jpg" },
+    { "id": 6, "product": "Notebook Acer", "model": "Notebook Acer Aspire 3 Intel Core i3-1005G1, 4GB, 1TB, Windows 10 Home, 15.6´", "url": "https://images7.kabum.com.br/produtos/fotos/124417/notebook-acer-aspire-3-intel-core-i3-1005g1-4gb-1tb-windows-10-home-15-6-gray-a315-56-36z1_1599224319_g.jpg" },
+    { "id": 7, "product": "Notebook Samsung", "model": "Notebook Samsung Galaxy Book S 13.3'' Intel Core i5 Full HD Led", "url": "https://a-static.mlcdn.com.br/618x463/notebook-samsung-galaxy-book-s-13-3-intel-core-i5-full-hd-led/lojasamsungoficial1/2069/99eb1dd1360ff3dfc81295c069f20ea7.jpg" },
+    { "id": 8, "product": "Batedeira Arno", "model": "Deluxe 500W Branco", "url": "https://d1likr6vgtxkkw.cloudfront.net/Custom/Content/Products/51/81/5181_batedeira-de-bolo-planetaria-deluxe-500w-branco-arno_m2_637400153042990068.jpg" },
+    { "id": 9, "product": "Ventilador Mallory", "model": "Neo Air 15", "url": "https://a-static.mlcdn.com.br/618x463/ventilador-mallory-neo-air-15/lojaszema/2539/1bc8fad6a0b251f8e2d6e7917189b487.jpg" },
+    { "id": 10, "product": "Ventilador Arno", "model": " Turbo Force 40cm VF49", "url": "https://http2.mlstatic.com/D_NQ_NP_756287-MLB31123884688_062019-O.jpg" }
   ]
 }
